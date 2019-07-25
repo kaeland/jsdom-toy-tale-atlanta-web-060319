@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 25
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 22
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 10
     },
     {
       "id": 5,
@@ -47,6 +47,33 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "id": 9
+    },
+    {
+      "name": "Slinky",
+      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Slink-2",
+      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
+      "likes": 5,
+      "id": 11
+    },
+    {
+      "name": "Slinky-3",
+      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "Slinky-4",
+      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
+      "likes": 10,
+      "id": 13
     }
   ]
 }
